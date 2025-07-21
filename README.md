@@ -13,15 +13,12 @@
 </p>
 
 ---
-## � Application Preview
 
-### 🎬 Quick Demo
+## 🎬 Quick Demo
 ![Packet Vision Demo](screenshots/demo.gif)
 *See Packet Vision in action - from capture to analysis in real-time*
 
-### 🖥️ Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Complete packet capture interface with real-time analysis*
+---
 
 ## 📌 About the Project
 
@@ -244,16 +241,6 @@ Access built-in help through the **Help** menu:
 🔐 *Cybersecurity Enthusiast & Network Security Specialist*
 - 💼 LinkedIn: [@m-abdul-ahad](https://www.linkedin.com/in/m-abdul-ahad-91800b2a7)
 - 🐙 GitHub: [@MABDULAHAD-HUB](https://github.com/MABDULAHAD-HUB)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ using the Python ecosystem
-- Special thanks to the Scapy and PyQt5 communities
-- Inspired by modern network analysis tools like Wireshark
 
 ## ⭐ Show Your Support
 
