@@ -13,6 +13,15 @@
 </p>
 
 ---
+## � Application Preview
+
+### 🎬 Quick Demo
+![Packet Vision Demo](screenshots/demo.gif)
+*See Packet Vision in action - from capture to analysis in real-time*
+
+### 🖥️ Main Interface
+![Main Interface](screenshots/main-interface.png)
+*Complete packet capture interface with real-time analysis*
 
 ## 📌 About the Project
 
