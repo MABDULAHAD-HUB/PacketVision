@@ -1,4 +1,0 @@
-scapy
-PyQt5
-matplotlib
-numpy
